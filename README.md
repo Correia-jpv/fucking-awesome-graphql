@@ -161,6 +161,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 - [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
+- [Gra*fast*](https://grafast.org) - a cutting edge planning and execution engine for GraphQL.
 
 #### Clients
 
