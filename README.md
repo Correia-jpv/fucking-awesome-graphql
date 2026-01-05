@@ -725,10 +725,10 @@ If you want to contribute to this list (please do), send me a pull request.
 - [InQL Scanner](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing
 - [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) [BurpSuite](https://portswigger.net/burp)
 - [WAF for graphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
-- [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [GraphQL Intruder](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 - [GraphQLer](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+- [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ### Tools - Browser Extensions
 
