@@ -728,6 +728,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Intruder](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 - [GraphQLer](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+- [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ### Tools - Browser Extensions
 
